@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi, I'm Avik 👋
+
+Trying to git gud at coding.
+
+Currently studying computer science at the University of Minnesota - Twin Cities.
+
+### Links
+---
+* email: [chakr258@umn.edu](mailto:chakr258@umn.edu)
+* linkedin: [linkedin.com/in/avik-ch](https://www.linkedin.com/in/avik-ch/)
 
 <!--
 **avik-ch/avik-ch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
